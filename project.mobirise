@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Digital Storni",
-    "currentPage": "about.html",
+    "currentPage": "manuscript.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4803,7 +4803,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "36",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -4872,7 +4872,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "34",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
