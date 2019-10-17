@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 82,
+    "uniqCompNum": 83,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -4407,7 +4407,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag-28-600x861.jpg",
+              "src": "@PROJECT_PATH@/assets/images/manuscript-600x862.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -4646,7 +4646,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-10-16-at-4.08.11-pm-908x1216.png",
+              "src": "@PROJECT_PATH@/assets/images/tei-xml-953x1366.png",
               "link": "",
               "alt": "",
               "title": ""
