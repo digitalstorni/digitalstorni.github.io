@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Digital Storni",
-    "currentPage": "manuscript.html",
+    "currentPage": "edition.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -194,7 +194,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag2-600x852.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -353,7 +353,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag2-600x852.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -512,7 +512,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -671,7 +671,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -830,7 +830,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -989,7 +989,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1148,7 +1148,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1307,7 +1307,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1466,7 +1466,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1625,7 +1625,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1784,7 +1784,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1943,7 +1943,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2102,7 +2102,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2261,7 +2261,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2420,7 +2420,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2579,7 +2579,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2738,7 +2738,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2897,7 +2897,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3056,7 +3056,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3215,7 +3215,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3374,7 +3374,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3533,7 +3533,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3692,7 +3692,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -3851,7 +3851,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pag1-600x832-600x832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pag6-600x897.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
