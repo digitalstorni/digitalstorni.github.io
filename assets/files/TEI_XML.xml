@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   <teiHeader xml:lang="en">
+      
+      <fileDesc>
+         <titleStmt>
+            <title>Libro de versos iniciado el día 1º de Septiembre de 1920</title>
+            <author>
+               <persName>
+                  <forename>Alfonsina</forename>
+                  <surname>Storni</surname>
+               </persName>
+               <persName>Alfonsina Storni</persName>
+               <idno type="viaf">http://viaf.org/viaf/90658830</idno>
+               <idno type="wiki">https://www.wikidata.org/wiki/Q238557</idno>
+            </author>
+         </titleStmt>
+         <extent>
+            <measure unit="words" quantity="2339"/>
+            <measure unit="pages" quantity="29"/>
+         </extent>
+         <publicationStmt>
+            <p>Encoded by Delfina Sol Pandiani.</p>
+            <p>Encoded<date>2019-10-15</date></p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <relatedItem>
+                  <bibl>The primary source of this file is the digital reproduction of the original manuscript of Alfonsina Storni 'Buenos Aires [Manuscrito]. Libro de versos iniciado el día 1º de Septiembre de 1920.' Original manuscript is 55 pages; 22 x 16cm. It is found at: Biblioteca Nacional (Argentina). Ub. fís. TES 3 A 28 1 2 35/8.</bibl>
+               </relatedItem>
+               <relatedItem>
+                  <bibl>Digital facsimiles published by Alicante: Biblioteca Virtual Miguel de Cervantes, 2001. See <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmcww7c7">URI</ref></bibl>
+               </relatedItem>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+      <encodingDesc>
+         <p> Encoding, capturing lexical and diplomatic information. Focus on the encoding of substitutions. No hyphenation, punctuation, and variant spellings have been normalized. Little formatting or layout information preserved.</p>
+      </encodingDesc>
+      
+      <profileDesc>
+         <langUsage>
+            <language ident="sp">Spanish</language>
+         </langUsage>
+         <textClass>
+            <keywords source="http://wikidata.org">
+               <term>poetry</term>
+               <term>modernism</term>
+               <term>diarist</term>
+               <term>suicide</term>
+               <term>writer</term>
+            </keywords>
+         </textClass>
+         <settingDesc>
+            <setting>
+               <name>Buenos Aires, Argentina</name>
+               <time>Early 20th century</time>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      
+      <xenoData>
+      </xenoData>
+      
+      <revisionDesc>
+         <change when="2019-06-02" who="Delfina Sol Pandiani">
+            Initial encoding
+         </change>
+         <change when="2019-10-15" who="Delfina Sol Pandiani">
+            Finalize first batch of encoding
+         </change>
+      </revisionDesc>
+      
+   </teiHeader>
+   
+   <text>
+      <front>
+         <titlePage>
+            <pb n="1" facs="pag1.jpg"/>
+            <titlePart type="main" rend="underline">Buenos Aires</titlePart>
+            <titlePart type="sub">Libro de versos iniciado el día <date when="1920-09-01">1 de Septiembre <hi>1920</hi></date></titlePart>
+            <titlePart type="dedication">A los que, como yo, nunca realizaron uno solo de sus sueños</titlePart>
+         </titlePage>
+      </front>
+      
+      <body>
+            <pb n="2" facs="pag2.jpg"/>
+               <l><del type="strikethrough" rend="strikethrough">Los cantos sutiles.</del></l>
+               <l><del type="strikethrough">Los</del><add> Cantos Sutiles.</add></l>
+         
+         
+            <pb n="3" facs="pag3.jpg"/>
+            <div type="poem" n="1">
+               <head rend="underline">Buenos Aires &#x02717;</head>
+               <lg type="stanza">
+                  <l><placeName xml:id="bsas">Buenos Aires</placeName> es un hombre</l>
+                  <l>que tiene grandes las piernas</l>
+                  <l>Grandes los pies y las manos</l>
+                  <l>y pequeña la cabeza.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Gigante que esta sentado</l>
+                  <l>con un Río a su derecha,</l>
+                  <l>los pies <subst xml:id="three"><del type="strikethrough" rend="strikethrough">nerviosos</del><add type="supraline" rend="supraline">muonstrosos</add></subst> movibles</l>
+                  <l>y la mirada en pereza.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>En sus dos ojos, mosaicos</l>
+                  <l>De colores, se reflejan</l>
+                  <l>Las luces y los <subst xml:id="four"><del type="strikethrough" rend="strikethrough">palacios</del><add type="supralineal" rend="supralineal">museos</add></subst></l>
+                  <l>De ciudades europeas.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Bajo sus pies, todavía</l>
+                  <l>Estan calientes las huellas</l>
+                  <l>de los viejos <persName xml:id="querandies">querandíes</persName><note>Grupo étnico del noreste de la región pampeana de la actual Argentina al tiempo de la llegada de los primeros colonizadores europeos en el siglo XVI.</note></l>
+                  <l><subst xml:id="five"><del type="strikethrough" rend="strikethrough">Ahogados</del><add type="supralineal" rend="supralineal"> De boleadores y flechas.</add></subst></l>
+               </lg>
+
+
+            <pb n="4" facs="pag4.jpg"/>
+               <lg type="stanza">
+                  <l>Por eso cuando los nervios</l>
+                  <l>Se le ponen en tormenta</l>
+                  <l>Siente que la antigua indiada</l>
+                  <l>Se le sube por las piernas</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Choca este soplo que sube</l>
+                  <l>por sus pies, desde la tierra,</l>
+                  <l>Con el mosaico europeo</l>
+                  <l>que en los grandes ojos lleva.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Entonces sus grandes manos</l>
+                  <l>Se crispan, vacilan, tiemblan:</l>
+                  <l>&#161;A igual distancia <subst xml:id="six"><del type="strikethrough" rend="strikethrough">sus manos</del><add type="supralineal" rend="supralineal">tendidas</add></subst></l>
+                  <l>del suelo y de la cabeza!</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Sorda esta lucha por <subst xml:id="seven"><del type="strikethrough" rend="strikethrough">adentro po</del><add type="supralineal" rend="supralineal">dentro</add></subst></l>
+                  <l>Le está restando sus fuerzas,</l>
+                  <l>Por eso sus ojos miran</l>
+                  <l>Todavía con pereza.</l>
+               </lg>
+
+
+            <pb n="5" facs="pag5.jpg"/>
+               <lg type="stanza">
+                  <l>Pero tras ellos, velados</l>
+                  <l>Rasguña la inteligencia</l>
+                  <l>y ya se le agranda el cráneo</l>
+                  <l>Pujando de adentro a fuera.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Como de mujer en cinta</l>
+                  <l>no fíes en la indolencia</l>
+                  <l>de este hombre que está sentado</l>
+                  <l>Con <placeName xml:id="riodelaplata">el Plata</placeName> a su derecha.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Ponle muy cerca el oído:</l>
+                  <l>Golpeando están sus arterias.</l>
+                  <l>Ay, si algún día le crece</l>
+                  <l>&#161;Como los pies, la cabeza!</l>
+               </lg>
+               <lg type="stanza">
+                  <l><add type="supralineal" rend="supralineal">no</add></l>
+                  <l><del type="strikethrough" rend="strikethrough">Mira que tiene en la boca</del></l>
+                  <l><del type="strikethrough" rend="strikethrough">una sonrisa traviesa</del></l>
+                  <l><del type="strikethrough" rend="strikethrough">y abarca en dos golpes de ojo</del></l>
+                  <l><del type="strikethrough" rend="strikethrough">toda la costa de Am&#233;rica.</del></l>
+                  <l><add type="supralineal" rend="supralineal">no</add></l>
+               </lg>
+            </div>
+
+
+				<pb n="6" facs="pag6.jpg"/>
+				<div type="note">
+					<head>Lo divino y lo bestial</head>
+					<p rend="underline">1920</p>
+				</div>
+
+
+				<pb n="7" facs="pag7.jpg"/>
+				<div type="poem" n="2">
+					<head rend="underline">El león</head>
+					<lg type="stanza">
+					   <l>Entre barrotes negros, la dorada melena</l>
+					   <l>Paseas lentamente y te tiendes por fin</l>
+					   <l>Descansando los <subst xml:id="nine"><del type="strikethrough" rend="strikethrough">ojos</del><add type="side">tristes ojos</add></subst>, sobre la arena</l>
+					   <l>que brilla en los senderos angostos del jardín.</l>
+					</lg>
+					<lg type="stanza">
+						<l>Bajo el sol, que te  <subst xml:id="ten"><del type="strikethrough" rend="strikethrough">lames, te mereces, sereno</del><add type="supralineal" rend="supralineal">dan,</add></subst> te has quedado sereno,</l>
+						<l>y ante tus ojos pasa, fresca y primaveral</l>
+						<l>la niña de quince años, con su esponjado seno,</l>
+						<l>?Sueñas echarle garras, magnífico<add type="sublineal" rend="sublineal">oh goloso</add>animal?</l>
+					</lg>
+					<lg type="stanza">
+						<l>Miro tus grandes uñas, inútiles y coroas,</l>
+						<l>se abren tus fauces, veo <subst xml:id="eleven"><del type="strikethrough" rend="strikethrough">inutil</del><add type="sublineal" rend="sublineal">el inutil molar</add></subst></l>
+						<l>E inútiles como ellos, van tus miradas tornas </l>
+						<l>a morir en el hombre que te viene a mirar.</l>
+					</lg>
+					<lg type="stanza">
+						<l>El hombre que te mira, tiene las manos finas</l>
+						<l>tiene los ojos <subst xml:id="twelve"><del type="strikethrough" rend="strikethrough">dulces</del><add type="supralineal" rend="supralineal">fijos</add></subst>, y claros como tú,</l>
+						<l>Se sonríe al mirarte… tiene las manos finas</l>
+						<l>Leon; los ojos tiene como los tienes tú.</l>
+					</lg>
+
+
+				<pb n="8" facs="pag8.jpg"/>
+					<lg type="stanza">
+						<l>Un día suavemente, con sus corteses modos</l>
+						<l>Hizo el hombre su jaula para encerrarte <add type="sublineal" rend="sublineal">allí,</add></l>
+						<l>y ahora te contempla apoyado de codos</l>
+						<l>Sobre el hierro puridente que lo aparta de tí.</l>
+					</lg>
+					<lg type="stanza">
+					   <l><subst xml:id="thirteen"><del type="strikethrough" rend="strikethrough">De noche</del><add type="supralineal" rend="supralineal">No obstante,</add></subst> cuando corta el silencio <del type="strikethrough" rend="strikethrough">de nocturno</del></l>
+						<l>El rugido salvaje de algún otro león,</l>
+						<l>te crees en la selva, y el ojo, taciturno,</l>
+						<l>se te vuelve, en la sombra, encendido carbón.</l>
+					</lg>
+					<lg type="stanza">
+					   <l>Entonces, como otrora, se te <subst xml:id="fourteen"><del type="strikethrough" rend="strikethrough">afilan</del><add type="supralineal" rend="supralineal">afinan</add></subst> las uñas</l>
+					   <l>y la garganta seca de una salvaje sed</l>
+					   <l>La piedra de tu <del>z</del>celda vanamente rasguñas</l>
+					   <l>y tu zarpazo inútil retumba en la pared…</l>
+					</lg>
+					<lg type="stanza">
+					   <l>Los hijos que te nazcan, bestia caída y triste</l>
+					   <l>de la leona esclava que por hembra te dan,</l>
+					   <l><del>sufrirán en tu carne</del></l>
+					   <l>Sufrirán en su carne lo mismo que sufriste</l>
+					   <l>pero dientes y garras más débiles tendrán…</l>
+					</lg>
+
+
+				<pb n="9" facs="pag9.jpg"/>
+					<lg type="stanza">
+					   <l>Alguna vez te he visto durmiendo tu tristeza</l>
+					   <l>La melena dorada sobre la piedra gris</l>
+					   <l><subst xml:id="fifteen"><del type="strikethrough" rend="strikethrough">Caído el cuerpo regio</del><add type="supralineal" rend="supralineal"> Abandonando el cuerpo</add></subst>con la enorme pereza</l>
+					   <l>que las siestas de fuego tienen en tu país</l>
+					</lg>
+
+					<lg type="stanza">
+					   <l>Y sobre tu salvaje melena enmarañada</l>
+					   <l>mi cuello <subst xml:id="sixteen"><del type="strikethrough" rend="strikethrough">rosa y seda</del><add type="supralineal" rend="supralineal">delicado</add></subst> sintió la tentación</l>
+					   <l>De abandonarse al tuyo, yo como tu, cansada</l>
+					   <l>De otra jaula más <subst xml:id="seventeen"><del type="strikethrough" rend="strikethrough">grande</del><add type="sublineal" rend="sublineal"> vasta</add></subst> <subst xml:id="eighteen"><del type="strikethrough" rend="strikethrough">oh rabioso</del><add type="sublineal" rend="sublineal">que la tuya</add></subst> león!</l>
+					</lg>
+               
+               <figure>
+                  <figDesc>Arrow on the left margin, pointing towards the first line of the next stanza.</figDesc>
+               </figure>
+				   
+					<lg type="stanza">
+					   <l>No cede: ya lo sabes; diez veces en un día</l>
+					   <l>tu cuerpo contra el hierro carcelario se fué.</l>
+					   <l>Diez veces contra fué inutil tu porfía.</l>
+					   <l>tus ojos, muy lejanos, hoy dicen: para qué…</l>
+					</lg>
+
+				   <figure>
+				      <figDesc>Line on the left margin.</figDesc>
+				   </figure>
+				   
+					<lg type="stanza">
+					   <l>¿Lo comprendes ó hestir? Cuando misero un gato</l>
+					   <l>pasa junto tu jaula huyendo de un mastín</l>
+					   <l>y se trepa a una rama ?Lo sospescha tu olfato</l>
+					   <l>que tu prole te naga, así misma y ruina?</l>
+					</lg>
+
+               <trailer>
+                  <l>En el <unclear>zoologico</unclear> de <placeName>Buenos Aires</placeName></l>
+                  <l><date when="1920-10-06">Octubre 6 1920</date></l>
+               </trailer>
+				</div>
+
+
+				<pb n="10" facs="pag10.jpg"/>
+            <div type="poem" n="3">
+               <head rend="underline">Confidencia</head>
+               <lg type="stanza">
+                  <l>Amigos míos los dulces,</l>
+                  <l>Los más pequeños; yo quiero</l>
+                  <l>que os pongais túnicas blancas…</l>
+                  <l>venid; pero en gran silencio.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Cortad apenas el aire,</l>
+                  <l><unclear>Rodeadme</unclear> aquí junto al fuego,</l>
+                  <l>Poned las cabezas rubias,</l>
+                  <l>sedosas, sobre mi pecho.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Un solo grupo muy fino…</l>
+                  <l><subst xml:id="nineteen"><del type="strikethrough" rend="strikethrough">mirad por el vidrio el cielo. muy celes</del><add type="supralineal" rend="supralineal"> vea desde afuera el cielo</add></subst>></l>
+                  <l>voy a decir dos palabras:</l>
+                  <l>oh, suspended el aliento.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Todas las manos se uncen;</l>
+                  <l>he aquí mi dulce secreto:</l>
+                  <l>cuando él me besa los ojos</l>
+                  <l>amigos míos, yo muero… </l>
+               </lg>        
+            </div>
+         
+         
+				<pb n="11" facs="pag11.jpg"/>
+            <div type="poem" n="4">
+               <head rend="underline">Siglo XX</head>
+               <lg type="stanza">
+                  <l>Me estoy consumiendo en vida,</l>
+                  <l>Gastando sin hacer nada,</l>
+                  <l>entre las cuatro paredes</l>
+                  <l>simétricas de mi casa..</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Eh <unclear>obreros</unclear>, traed las picas,</l>
+                  <l>paredes y techos caigan</l>
+                  <l>me mueva el aire la sangre,</l>
+                  <l>me queme el sol las espaldas.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>mujer soy del siglo XX,</l>
+                  <l>paso el día recostada</l>
+                  <l>mirando desde mi cuarto</l>
+                  <l>como se mueve una rama.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>Se está quemando la Europa</l>
+                  <l>y estoy mirando sus llamas</l>
+                  <l>con la misma indiferencia </l>
+                  <l>con que contemplo esa rama.</l>
+               </lg>        
+            
+         
+				<pb n="12" facs="pag12.jpg"/>
+               <lg type="stanza">
+                 <l>Tú el que pasas: no me mires</l>
+                 <l>de arriba a abajo: mi  alma</l>
+                 <l>grita tu crimen; la tuya</l>
+                 <l>lo esconde bajo palabras.</l>
+              </lg> 
+              <figure>
+                 <figDesc>Cross figure in the middle of the page.</figDesc>
+              </figure>
+           </div>
+         
+         
+           <pb n="13" facs="pag13.jpg"/>
+           <div type="unclear">
+              <lg type="stanza">
+                 <l><del type="strikethroguh" rend="strikethrough">En las <unclear>dulces</unclear> mañanas, cuando <unclear>ruge</unclear>el viento</del></l>
+                 <l><del type="strikethroguh" rend="strikethrough">dulcemente <unclear>polvo ?</unclear>, oir las risas</del></l>
+              </lg>
+              <figure>
+                 <figDesc>One crossover line over the top of the stanza.</figDesc>
+              </figure>
+              <lg type="stanza">
+                 <l>En primavera, el viento, suavemente</l>
+                 <l>desde las barcas que allá lejos pasan,</l>
+                 <l>les trae risa de mujeres; tibio</l>
+                 <l>el beso viene con la risa; <subst xml:id="twenty"><del type="strikethrough" rend="strikethrough">corta</del><add type="supralineal" rend="supralineal">filtra</add></subst></l>
+                 <l>su piedra fría, y se acurruca sabio,</l>
+                 <l>en nuestra <subst xml:id="twentyone"><del type="strikethrough" rend="strikethrough">boca labios</del><add type="supralineal" rend="supralineal">boca</add></subst> y os consuela un poco…</l>
+              </lg>
+           </div>
+         
+         
+           <pb n="14" facs="pag14.jpg"/>
+           <div type="poem" n="5">
+              <head rend="underline">El cementerio que mira al mar</head>
+              <l><subst xml:id="twentytwo"><del type="strikethrough" rend="strikethrough">En el</del><add type="supralineal" rend="supralineal"><unclear>Recorro</unclear></add></subst> Museo de Montevideo 1919</l>
+              <lg type="stanza">
+                 <l>Muertos, decidme: quién os puso un día,</l>
+                 <l>así acostados junto al mar sonoro?</l>
+                 <l>comprendía quién fuera que los muertos</l>
+                 <l>se aburren ya del canto de las aves</l>
+                 <l>y os han puesto muy cerca de las olas</l>
+                 <l>porque sintais del mar azul, el ronco</l>
+                 <l>bramido que da miedo?</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Os estais junto al mar que no se calla</l>
+                 <l>muy quietecitos, con el muerto oído</l>
+                 <l>oyendo como crece la marea</l>
+                 <l>y aquel mar que se mueve a vuestro lado</l>
+                 <l><unclear>es</unclear> la promesa no cumplida, de una</l>
+                 <l>Resurrección.</l>
+              </lg>
+              <lg type="stanza">
+                 <l><subst xml:id="twentythree"><del type="strikethrough" rend="strikethrough">En las</del><add type="supralineal" rend="supralineal">Pero en</add></subst>noches tremendas, cuando aúlla</l>
+                 <l>el viento sobre el mar, y allá a lo lejos</l>
+                 <l>los hombres vivos que navegan tiemblan</l>
+              </lg>
+         
+         
+           <pb n="15" facs="pag15.jpg"/>
+              <figure>
+                 <figDesc>Downwards arros on left top corner of the page.</figDesc>
+              </figure>
+              <figure>
+                 <figDesc>One crossover line over the top right corner of the stanza.</figDesc>
+              </figure>
+              <lg type="stanza">
+                 <l>Entonces, como obreros que comprenden</l>
+                 <l>se detendrán las olas y leyendo</l>
+                 <l>las lápidas inscriptas, poco a poco</l>
+                 <l>las moverán a suaves golpes hasta</l>
+                 <l>que las desplacen y os liberten…</l>
+              </lg>
+           </div>
+         
+           <pb n="16" facs="pag16.jpg"/>
+           <div type="poem" n="6">
+              <lg type="stanza">
+                 <l>Sobre los cascos débiles, y el cielo</l>
+                 <l>quiere darse a la tierra <subst xml:id="twentyfour"><del type="strikethrough" rend="strikethrough">en rayos de oro en chorro de agua</del><add type="supralineal" rend="supralineal">en hilos gruesos</add></subst></l>
+                 <l>Vosotros, los eternos contenidos,</l>
+                 <l>no podéis más, y con esfuerzo enorme</l>
+                 <l>Levantáis las cabezas de a tierra</l>
+                 <l>y en un lenguaje que ninguno entiende</l>
+                 <l>gritais: —Venid, olas del mar, <subst xml:id="twentyfive"><del type="strikethrough" rend="strikethrough">revueltas</del><add type="supralineal" rend="supralineal">sonoras</add></subst></l>
+                 <l>venid de golpe y envolvednos como</l>
+                 <l>nos envolvieron de pasión movidos</l>
+                 <l>brazos amantes, estrujadnos, olas,</l>
+                 <l>mon movednos de este caucal donde estamos</l>
+                 <l>Horizontales, viendo como pasan</l>
+                 <l>Los mundos por el cielo, noche a noche</l>
+                 <l>Entrad por nuestros ojos consumidos</l>
+                 <l>Buscad la lengua, la que habló, y movedla,</l>
+                 <l>Echadnos fuera del sepulcro a golpes…</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Y acaso un día, conmovido el muonstro,</l>
+                 <l>de las espaldas jorobadas, oiga / vuestro llamado</l>
+                 <l>monte por la playa y os cubra al fin,</l>
+                 <l>terriblemente hinchado!</l>
+              </lg>
+               
+         
+           <pb n="17" facs="pag17.jpg"/>
+              <lg type="stanza">
+                 <l>Oh qué bando grito el que dareis, que enorme,</l>
+                 <l>grito de muerto, cuando el mar os coja</l>
+                 <l>entre sus brazos y os arroje al fondo</l>
+                 <l>del grande abismo que se mueve siempre</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Brazos dolidos de guardar la misma</l>
+                 <l>horizontal postura; tibias largas,</l>
+                 <l>calaveras sonrientes; elegantes</l>
+                 <l>fémures corvos, confundidos, todos,</l>
+                 <l>danzarán bajo el rayo de la luna</l>
+                 <l>La milagrosa danza de las aguas,</l>
+                 <l>con feroz alegría.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Y algunos <subst xml:id="twentysix"><del type="strikethrough" rend="strikethrough">cabellos</del><add type="supralineal" rend="supralineal">esprendidas cabelleras</add></subst> </l>
+                 <l>rubias acaso, como el sol que baje,</l>
+                 <l>curioso a veras, delicadas islas</l>
+                 <l>formarán sobre el mar; y acaso atraigan</l>
+                 <l>a los pequeños pájaros viajeros...</l>
+              </lg>
+           </div>
+         
+         
+           <pb n="18" facs="pag18.jpg"/>
+           <div type="poem" n="7">
+              <head rend="underline">La armadura</head>
+              <lg type="stanza">
+                 <l>Mujer: tu la virtuosa, y tú la cínica</l>
+                 <l>y tú la indiferente o la perversa:</l>
+                 <l>mirémonos sin miedo y a los ojos.</l>
+                 <l>nos conocemos bien, vamos a cuentas:</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Bajo armadura andamos, si nos sobra</l>
+                 <l>el alma la cortamos; sino <subst xml:id="twentyseven"><del type="strikethrough" rend="strikethrough">llega</del><add type="supralineal" rend="supralineal">llena</add></subst></l>
+                 <l><subst xml:id="twentyeight"><del type="strikethrough" rend="strikethrough">A llenar</del><add type="supralineal" rend="supralineal">Por mengua</add></subst> la armadura <subst xml:id="twentynine"><del type="strikethrough" rend="strikethrough">la <unclear>medida</unclear></del><add type="supralineal" rend="supralineal">pues la henchimos:</add></subst></l>
+                 <l>con la armadura andamos siempre a cuestas.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>Conservad la armadura, si algún día</l>
+                 <l><del type="strikethrough">romperla con las manos</del></l>
+                 <l>libertaros de aquella <unclear>pretendierais</unclear>,</l>
+                 <l>del solo esfuerzo de arrojarla lejos</l>
+                 <l><del type="strikethrough">ya estarían bien muertas.</del></l>
+                 <l><del type="strikethrough"> quedarías</del></l>
+                 <l><del type="strikethrough">tened por cierto: qued</del></l>
+                 <l>os quedarais, como yo, bien muertas:</l>
+                 <l><handShift medium="pencil"/>Sé lo que pesa.</l>
+              </lg>
+           </div>      
+                 
+                 
+           <pb n="19" facs="pag19.jpg"/>
+           <div type="poem" n="8">
+              <head rend="underline">El dolor de la tierra</head>
+              <lg type="stanza">
+                 <l>Tres meses largos van que el sol calcina</l>
+                 <l>La tierra y está blanda y muy reseca:</l>
+                 <l>no puede mas: aguanta, aguanta, pero</l>
+                 <l>un grito se le sube desde adentro</l>
+                 <l>y se parte, violenta, en una grieta.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>La <subst xml:id="thirty"><del type="strikethrough" rend="strikethrough">seca nuestra</del><add type="sublineal" rend="sublineal">muerta</add></subst>boca de los labios <subst xml:id="thirtyone"><del type="strikethrough" rend="strikethrough">muertos</del><add type="supralineal" rend="supralineal">secos</add></subst></l>
+                 <l>que ha brotado en la tierra</l>
+                 <l>Se estira al cielo y - ¡agua!</l>
+                 <l>ya pronunciar intenta.</l>
+              </lg>
+           </div>
+         
+         
+           <pb n="20" facs="pag20.jpg"/>
+           <div type="poem" n="9">
+              <head rend="underline">El pozo</head>
+              <lg type="stanza">
+                 <l><unclear>Mi</unclear> corazón, andando por la vida</l>
+                 <l>se carga de dolor;</l>
+                 <l>así los pozos bajo lluvia lenta</l>
+                 <l>que cae con tesón.</l>
+              </lg>
+              <lg type="stanza">
+                 <l>pobre este pozo mio tan profundo!</l>
+                 <l>pobre este corazon!</l>
+                 <l>cuando está lleno, demasiado lleno</l>
+                 <l>Le basta una canción.</l>
+              </lg>
+              <figure>
+                 <figDesc>X cross in the middle of page.</figDesc>
+              </figure>
+           </div>
+         
+         
+           <pb n="21" facs="pag21.jpg"/>
+           <div type="poem" n="10">
+              <head rend="underline"><subst xml:id="thirtytwo"><del type="strikethrough" rend="strikethrough">Melancolía</del><add type="supralineal" rend="supralineal">Crepúsculo urbano</add></subst></head>
+              <lg type="stanza">
+                 <l>El sol se <subst xml:id="thirtythree"><del type="strikethrough" rend="strikethrough"><unclear>mue</unclear></del><add type="supralineal" rend="supralineal">mueve</add></subst> alla, rojo; sangrando</l>
+                 <l>sobre las casas su dolor de irse.</l>
+                 <l>He abierto la ventana de mi cuarto</l>
+                 <l>Miro sin ver. Desfilan cosas grises.</l>
+              </lg>
+              <lg>
+                 <l>Cortando la ciudad y sobre un puente</l>
+                 <l>un tren de carga en esto hace triste</l>
+                 <l>deja pasar ante mis ojos, lenta,</l>
+                 <l>muy lentamente sus vagones grises.</l>
+              </lg>
+              <lg>
+                 <l>No tengo voluntad; el alma, floja</l>
+                 <l>se desprende de mi; <subst xml:id="thirtyfour"><del type="strikethrough" rend="strikethrough">cuerpo</del><add type="supralineal" rend="supralineal">vuela</add></subst> y lo sigue.</l>
+                 <l>¿Hacia donde me voy, en ese largo</l>
+                 <l>tren que no acaba, de vagones grises?</l>
+              </lg>
+              <figure>
+                 <figDesc>X cross in the left-middle of page.</figDesc>
+              </figure>
+           </div>
+         
+         
+           <pb n="22" facs="pag22.jpg"/>
+           <div type="poem" n="11">
+              <head rend="underline">Espectativas</head>
+              <lg type="stanza">
+                 <l>Mi cuerpo, el alma, el pensamiento <unclear>todo</unclear></l>
+                 <l>Los <unclear>hay</unclear> divina y dulce primavera,</l>
+                 <l>me pregunto, Dios, con manso modo,</l>
+                 <l>cuál es el daño horrible que me espera…</l>
+              </lg>
+           </div>
+         
+         
+           <pb n="23" facs="pag23.jpg"/>
+           <pb n="24" facs="pag24.jpg"/>
+           <pb n="25" facs="pag25.jpg"/>
+           <pb n="26" facs="pag26.jpg"/>
+           <pb n="27" facs="pag27.jpg"/>
+         
+         
+           <pb n="28" facs="pag28.jpg"/>
+           <div type="poem" n="13">
+              <head rend="underline"><subst xml:id="thirtyfive"><del type="strikethrough" rend="strikethrough">Panorama nocturno</del><add type="supralineal" rend="supralineal">La ciudad de noche</add></subst></head>
+              <lg type="stanza">
+                 <l>Vista de noche; desde arriba, solo</l>
+                 <l>se ve una <subst xml:id="thirtysix"><del type="strikethrough" rend="strikethrough">mancha</del><add type="supralineal" rend="supralineal">masa</add></subst> negra</l>
+                 <l>cortada en bloques. Las paredes blancas</l>
+                 <l>resaltan en rectángulos. Hileras</l>
+                 <l>de lámparas eléctricas, <subst xml:id="thirtyseven"><del type="strikethrough" rend="strikethrough">señalan definen</del><add type="supralineal" rend="supralineal">delatan</add></subst></l>
+                 <l>Las calles rectas.</l>
+              </lg>
+              <lg>
+                 <l><subst xml:id="thirtyeight"><del type="strikethrough" rend="strikethrough">Muy abajo</del><add type="sublineal" rend="sublineal">Costeando</add></subst>la ciudad, como si fueran</l>
+                 <l>margaritas del suelo luminosas</l>
+                 <l>o agrupadas estrellas,</l>
+                 <l>miles de lucecitas se dirigen</l>
+                 <l>Hacia el río.</l>
+              </lg>
+              <lg>
+                 <l>La negra</l>
+                 <l>mancha de aquel <subst xml:id="thirtynine"><del type="strikethrough" rend="strikethrough">indefinida</del><add type="sublineal" rend="sublineal">indefinidamente</add></subst></l>
+                 <l>en la noche se interna…</l>
+              </lg>
+           </div>
+         
+         
+           <pb n="29" facs="pag29.jpg"/>
+           <div type="poem" n="14">
+              <head rend="underline">La inutil primavera</head>
+              <lg type="stanza">     
+                 <l>Veintiocho veces van que yo la veo,</l>
+                 <l>trabajando capullos del rosal;</l>
+                 <l>llegó cumpliendo ardiente mi deseo,</l>
+                 <l>cuando la tuve todo ha sido igual.</l>
+              </lg>
+              <lg>
+                 <l>Preparé un canto y se murió un gorjeo,</l>
+                 <l>me eché a ser río y termine canal.</l>
+                 <l>—En otra primavera… ¡Devaneo!</l>
+                 <l>Y está de nuevo y sigo <del>m</del> con mi mal.</l>
+              </lg>
+              <lg>
+                 <l>¡Veintiocho veces van! De diez, yo guardo</l>
+                 <l>memoria triste de aquel paso tardo</l>
+                 <l>con que los días del invierno van</l>
+                 <l>hollando el alma para hacerle casa.</l>
+                 <l>!Veintiocho veces van que inutil pasa!</l>
+                 <l>Cuantas, por verla aún me faltarán?</l>
+              </lg>
+           </div>
+         
+      </body>
+   </text>
+</TEI>
