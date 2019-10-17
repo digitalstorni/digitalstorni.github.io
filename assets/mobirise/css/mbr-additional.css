@@ -220,6 +220,9 @@
 #msg-box3-1y .mbr-article P {
   color: #efefef;
 }
+#header3-1u H3 {
+  color: #7c706b;
+}
 #msg-box4-5 .mbr-header__text {
   color: #ffffff;
   text-align: right;
@@ -235,6 +238,7 @@
 }
 #header3-1v H3 {
   text-align: left;
+  color: #7c706b;
 }
 #msg-box4-20 .mbr-header__text {
   color: #ffffff;
